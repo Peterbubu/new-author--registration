@@ -11,7 +11,7 @@ import WorkbenchPage from './pages/WorkbenchPage';
 
 const App: React.FC = () => {
   return (
-    <Router>
+    <Router basename="/new-author--registration">
       <Routes>
         <Route path="/" element={<LoginPage />} />
         <Route path="/identity-guide" element={<IdentityGuidePage />} />
