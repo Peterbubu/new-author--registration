@@ -12,7 +12,7 @@ const Navbar: React.FC = () => {
                 <path d="M12 2L2 7l10 5 10-5-10-5zm0 3.84L18.16 7 12 9.16 5.84 7 12 5.84zM2 17l10 5 10-5M12 18.16l-6.16-3 6.16-3 6.16 3-6.16 3z"/>
               </svg>
             </div>
-            <span className="text-lg font-bold text-[#1E293B]">星火创作者中心</span>
+            <span className="text-lg font-bold text-[#1E293B]">点众创作者中心</span>
           </Link>
         </div>
         <div className="flex items-center gap-6">
