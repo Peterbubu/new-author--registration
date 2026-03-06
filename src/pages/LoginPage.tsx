@@ -55,7 +55,7 @@ const LoginPage: React.FC = () => {
       <div className="flex-1 flex items-center justify-center pt-20 px-4">
         <div className="w-full max-w-md bg-white rounded-xl shadow-md p-6 transition-all duration-300 hover:shadow-lg">
           <div className="text-center mb-8">
-            <h1 className="text-2xl font-bold text-[#1E293B] mb-2">欢迎加入创作者平台</h1>
+            <h1 className="text-2xl font-bold text-[#1E293B] mb-2">欢迎加入创作者平台 - Unique Test String 67890</h1>
             <p className="text-gray-600">登录或注册您的账号</p>
           </div>
           <div className="space-y-4">
